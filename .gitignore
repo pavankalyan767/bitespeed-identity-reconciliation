@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+env/
+
+# OS
+.DS_Store
+
+# Alembic
+alembic/versions/
