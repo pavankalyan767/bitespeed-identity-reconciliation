@@ -12,3 +12,4 @@ psycopg2-binary==2.9.10
 sqlparse==0.5.3
 types-PyYAML==6.0.12.20250516
 typing_extensions==4.14.1
+whitenoise==6.6.0
